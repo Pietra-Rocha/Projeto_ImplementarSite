@@ -78,18 +78,7 @@ Hotel_Age/
     ├── diario-de-bordo.md
     ├── relatorio-hospedagem.md
     └── evidencias-testes.md
-🚀 Como Executar o Projeto
-Método 1: Localmente
 
-Clone ou baixe o repositório
-Extraia os arquivos (se estiver em .zip)
-Abra o arquivo index.html em um navegador web
-Navegue pelas páginas através do menu principal
-
-Método 2: Online (GitHub Pages)
-
-Acesse: https://marquezzitto.github.io/Hotel_Age
-Navegue livremente pelo site
 
 🛠️ Tecnologias Utilizadas
 Obrigatórias
@@ -178,18 +167,6 @@ diario-de-bordo.md: Registro semanal de desenvolvimento
 relatorio-hospedagem.md: Análise de opções de hospedagem e domínio
 evidencias-testes.md: Comprovações de testes e validações
 
-🌐 Hospedagem
-Opção Escolhida
-GitHub Pages
-URL do Projeto
-https://marquezzitto.github.io/Hotel_Age
-Motivo da Escolha
-
-Integração direta com repositório Git
-Hospedagem gratuita e ilimitada
-Deploy automático
-Ideal para projetos acadêmicos
-SSL/HTTPS incluído
 
 📝 Observações
 
