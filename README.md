@@ -79,10 +79,6 @@ Blackboard: Campo específico da atividade Data limite: [Inserir data]
 
 diario-de-bordo.md: Registro semanal de desenvolvimento relatorio-hospedagem.md: Análise de opções de hospedagem e domínio evidencias-testes.md: Comprovações de testes e validações
 
-🌐 Hospedagem Opção Escolhida GitHub Pages URL do Projeto https://marquezzitto.github.io/Hotel_Age Motivo da Escolha
-
-Integração direta com repositório Git Hospedagem gratuita e ilimitada Deploy automático Ideal para projetos acadêmicos SSL/HTTPS incluído
-
 📝 Observações
 
 Este é um projeto acadêmico desenvolvido para a disciplina de Desenvolvimento Front-End O Hotel Age é um estabelecimento fictício criado para fins didáticos Todos os dados e informações são meramente ilustrativos
